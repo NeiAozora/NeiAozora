@@ -4,6 +4,6 @@
 I'm a Software Engineer
 - my main language is c/c++
 - but i do web programming aka Full Stack for a living 
-- i can do c/c++ or c with raylib, php, js with jquery, python, and front end with html with css
-- I'm interested in Linux, Programming, Anime, weeb stuff 
-- I'm a weeb since 2012 
+- i can do c/c++ or c with raylib, mysql, php with laravel, js with jquery, python, and front end with html with css, bootstrap and other.
+- I'm interested in Linux, Programming, Anime, weeb stuff.
+- I'm a weeb since 2012.
