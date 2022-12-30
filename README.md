@@ -1,6 +1,5 @@
-### Hi there 👋
 
-- Hello I'm DegenarateZan, you can call me zan
+- I'm DegenarateZan, you can call me zan
 I'm a Software Engineer
 - my main language is c/c++
 - but i do web programming aka Full Stack for a living 
