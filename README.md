@@ -28,7 +28,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 <br />
 
-<a href="[discordapp.com/users/599926912193921036](https://discordapp.com/users/599926912193921036)">
+<a href="https://discordapp.com/users/599926912193921036">
   <img align="right" alt="Neither | Discord" width="21px" src="https://cdn-icons-png.flaticon.com/512/4945/4945973.png" />
 </a>
   
