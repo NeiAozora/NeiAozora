@@ -7,7 +7,7 @@ Just a random Software Engineer, that do what ever i want
 <img height="16" alt="laravel" 
 src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png">
 
-- ❤️ I love writing PHP, and building fun experiments on type-level
+- ❤️ I love writing PHP, and building fun experiments.
 
 - 💬 contact me on <a href="https://discordapp.com/users/599926912193921036">discord</a>
 
