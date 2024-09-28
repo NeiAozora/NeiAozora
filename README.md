@@ -1,9 +1,9 @@
 
-Just a random Software Engineer, that do what ever i want
+I'm a Software Engineer, mainly in backend development 
 
 **About me**
 
-- 💼 backend Engineer, mostly Laravel 
+- 💼 Backend Web Engineer, mostly Laravel 
 <img height="16" alt="laravel" 
 src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png">
 
