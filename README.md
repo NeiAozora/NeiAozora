@@ -21,7 +21,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <a href="https://github.com/neiaozora/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=degeneratezan&show_icons=true&theme=radical" alt="Anurag's github stats" /></a> | <a href="https://github.com/degeneratezan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=degeneratezan&layout=compact&show_icons=true&theme=radical" /></a> |
+| <a href="https://github.com/neiaozora/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=neiaozora&show_icons=true&theme=radical" alt="Anurag's github stats" /></a> | <a href="https://github.com/neiaozora/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neiaozora&layout=compact&show_icons=true&theme=radical" /></a> |
 | ------------- | ------------- |
 
 
